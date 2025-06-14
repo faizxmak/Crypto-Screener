@@ -19,12 +19,19 @@ Clean and intuitive design with built-in search functionality and conditional fo
 State Management with React Hooks
 Efficient and scalable architecture using reusable components for maintainability.
 
+Stock Integration
+fetches the top 5 stocks performing stocks everyday dynamically from the list of fortune 500  
+
 📸 Screenshots
 ![image](https://github.com/ser-attachments/assets/a0c357a6-b37b-43ea-b27a-014d720be7aa)
+
 ![image](https://github.com/user-attachments/assets/4daffd37-bbab-48e0-8790-dce34d73382d)
+
 ![image](https://github.com/user-attachments/assets/ff7d6257-c6cc-4f70-b7d3-5bf9945c1c66)
 
+
 ![image](https://github.com/user-attachments/assets/d8d0ff82-7a82-4277-bb9d-448dceafe3d3)
+
 
 
 🛠️ Technologies Used
@@ -62,6 +69,7 @@ src/
 Add chart visualizations for price trends
 Dark mode support
 User authentication and watchlist feature
+Future stock integration (already in the process)
 
 🙌 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
