@@ -23,7 +23,7 @@ Stock Integration
 fetches the top 5 stocks performing stocks everyday dynamically from the list of fortune 500  
 
 📸 Screenshots
-![image](https://github.com/ser-attachments/assets/a0c357a6-b37b-43ea-b27a-014d720be7aa)
+
 
 ![image](https://github.com/user-attachments/assets/4daffd37-bbab-48e0-8790-dce34d73382d)
 
