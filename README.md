@@ -1,7 +1,9 @@
 🪙 Crypto Screener App
+
 A web application to track and compare real-time cryptocurrency data including prices, market capitalization, and 24-hour changes for top coins. Built with React.js, Tailwind CSS, Axios, and React Router, and powered by the CoinGecko API.
 
 🚀 Features
+
 Real-Time Data
 Fetches up-to-date cryptocurrency metrics like prices, market cap, and 24h changes using the CoinGecko API.
 
@@ -22,7 +24,11 @@ Efficient and scalable architecture using reusable components for maintainabilit
 ![image](https://github.com/user-attachments/assets/4daffd37-bbab-48e0-8790-dce34d73382d)
 ![image](https://github.com/user-attachments/assets/ff7d6257-c6cc-4f70-b7d3-5bf9945c1c66)
 
+![image](https://github.com/user-attachments/assets/d8d0ff82-7a82-4277-bb9d-448dceafe3d3)
+
+
 🛠️ Technologies Used
+
 React.js
 Tailwind CSS
 Axios
@@ -30,6 +36,7 @@ React Router
 CoinGecko API
 
 📦 Installation
+
 # Clone the repository
 git clone https://github.com/yourusername/crypto-screener.git
 cd crypto-screener
@@ -41,6 +48,7 @@ npm install
 npm start
 
 📁 Folder Structure
+
 src/
 ├── components/
 ├── pages/
@@ -50,6 +58,7 @@ src/
 
 
 📈 Future Improvements
+
 Add chart visualizations for price trends
 Dark mode support
 User authentication and watchlist feature
